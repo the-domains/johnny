@@ -1,0 +1,29 @@
+name: Johnny
+favicon: null
+layout_spectrum: 0.5394068153109401
+typography_spectrum: 0.653584464918822
+title: Personal testing
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.012480171164497733
+  lightness: 0.9813333959318697
+  saturation: 0.7230682941153646
+  rhythmicContrast: 0.8995058641303331
+purpose: []
