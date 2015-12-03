@@ -1,8 +1,7 @@
 name: Johnny
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.30609
-title: Personal testing
+layout_spectrum: 0.5394068153109401
+typography_spectrum: 0.653584464918822
 cta:
   domain: null
   bucket: null
@@ -22,8 +21,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0
+  brandStrength: 0.012480171164497733
   lightness: 0.9813333959318697
-  saturation: 0.5
-  rhythmicContrast: 0.75
+  saturation: 0.7230682941153646
+  rhythmicContrast: 0.8995058641303331
 purpose: []
